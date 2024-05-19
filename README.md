@@ -10,7 +10,7 @@
 <div>
     <a href="https://www.instagram.com/miguelmello2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/miguel-mello-3357902b5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"</a>
-    <a href = "mailto:miguelmellommc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:miguelmellommc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!--GitHub Stats-->
@@ -36,7 +36,7 @@
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg">
 
-# ![snake gif](https://github.com/miguelmello2/miguelmello2/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/miguelmello2/miguelmello2/blob/output/github-contribution-grid-snake.svg)
 
 <!--Rodapé-->
 <div>
