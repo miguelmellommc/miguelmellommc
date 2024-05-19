@@ -2,11 +2,13 @@
 <div align="center">
 <div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 18 anos, moro em BH e atualmente sou <code>Estudante</code> do curso de Engenharia de Software da, <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 18 anos, moro em BH e atualmente sou <code>Estudante</code> do curso de Engenharia de Software da, <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, onde estou empenhado em aprender e aprimorar minhas habilidades em diversas áreas da computação.
 </div>
 
 <!--Redes-->
 ##
+<img height="20" alt="GIF" src="https://media3.giphy.com/media/U6eQLOGfn9JrvidMWF/giphy.gif"/>Contatos:
+
 <div>
     <a href="https://www.instagram.com/miguelmello2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/miguel-mello-3357902b5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"</a>
@@ -36,6 +38,7 @@
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg">
 
+##
 ![Snake animation](https://github.com/miguelmello2/miguelmello2/blob/output/github-contribution-grid-snake.svg)
 
 <!--Rodapé-->
