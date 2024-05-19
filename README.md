@@ -36,7 +36,7 @@
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg">
 
-! [Snake animation](https://github.com/miguelmello2/miguelmello2/blob/output/github-contribution-grid-snake.svg)
+# ![snake gif](https://github.com/miguelmello2/miguelmello2/blob/output/github-contribution-grid-snake.gif)
 
 <!--Rodapé-->
 <div>
