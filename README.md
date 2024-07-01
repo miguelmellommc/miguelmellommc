@@ -25,7 +25,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmello2&layout=compact&theme=dark" >
 </div>
 
-<!--Linguagens e ferramentas-->
+  
 ##
 <img height="20" alt="GIF" src="https://github.com/miguelmello2/miguelmello2/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
